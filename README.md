@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployed website (https://says-react-dzvu.vercel.app/).
+Deployed website - https://says-react-dzvu.vercel.app/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
